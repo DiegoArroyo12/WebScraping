@@ -1,0 +1,266 @@
+descripcion,id,pregunta
+"
+                I want a functionalities where when user login to admin page, either using username and password, or using google sso (using allauth package). they still need to go for a certain check.
+Now I have ...
+            ",[0],Custom Django admin login with django allauth package
+,[1],
+,[2],
+,[3],
+,[4],
+"
+                I want a functionalities where when user login to admin page, either using username and password, or using google sso (using allauth package). they still need to go for a certain check.
+Now I have ...
+            ",[5],Custom Django admin login with django allauth package
+,[6],
+,[7],
+,[8],
+"
+                <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""UTF-8"">
+<title>Decision App</title>
+<link rel=""stylesheet"" href=""...
+            ",[9],Weird behavior when trying to use gemini API. How to make this javascript and html code properly work together?
+,[10],
+,[11],
+,[12],
+,[13],
+"
+                <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""UTF-8"">
+<title>Decision App</title>
+<link rel=""stylesheet"" href=""...
+            ",[14],Weird behavior when trying to use gemini API. How to make this javascript and html code properly work together?
+,[15],
+,[16],
+,[17],
+"
+                I created an EC2 server with the AMI named "" Deep Learning OSS Nvidia Driver AMI GPU PyTorch 2.1.0 (Ubuntu 20.04) 20240326 ""
+I tried installing drivers in different ways, none's working out ...
+            ",[18],AWS GPU Issue with Nvidia CUDA driver
+,[19],
+,[20],
+,[21],
+,[22],
+"
+                I created an EC2 server with the AMI named "" Deep Learning OSS Nvidia Driver AMI GPU PyTorch 2.1.0 (Ubuntu 20.04) 20240326 ""
+I tried installing drivers in different ways, none's working out ...
+            ",[23],AWS GPU Issue with Nvidia CUDA driver
+,[24],
+,[25],
+,[26],
+"
+                The default basebandrate of baseband service is 12000 samples/s , but it's a little low for me. How can I change the basebandrate of the baseband service?
+            ",[27],"""Can the baseband sampling rate of Unetstack be modified?"""
+,[28],
+,[29],
+,[30],
+,[31],
+"
+                The default basebandrate of baseband service is 12000 samples/s , but it's a little low for me. How can I change the basebandrate of the baseband service?
+            ",[32],"""Can the baseband sampling rate of Unetstack be modified?"""
+,[33],
+,[34],
+,[35],
+"
+                I have written an python program to handle sending notifications to dunst with notify-send. i am aware that there are better alternatives, but i wanted to make it on my own.
+This is my program located ...
+            ",[36],sway exec doesn't do the same as the same command in cli
+,[37],
+,[38],
+,[39],
+,[40],
+"
+                I have written an python program to handle sending notifications to dunst with notify-send. i am aware that there are better alternatives, but i wanted to make it on my own.
+This is my program located ...
+            ",[41],sway exec doesn't do the same as the same command in cli
+,[42],
+,[43],
+,[44],
+"
+                On this website is at https://prach.org. When I enter https://www.prach.org , it works perfectly, but when I type https://prach.org it DOESNT load. Why is this happening?. Can you explain why this is ...
+            ",[45],"I have a website, with https domain redirection issues"
+,[46],
+,[47],
+,[48],
+,[49],
+"
+                On this website is at https://prach.org. When I enter https://www.prach.org , it works perfectly, but when I type https://prach.org it DOESNT load. Why is this happening?. Can you explain why this is ...
+            ",[50],"I have a website, with https domain redirection issues"
+,[51],
+,[52],
+,[53],
+"
+                ```
+select *
+from V
+where NVL(V.COD,'*') LIKE  REPLACE  ( '?CODE - (*R01* , R0* , * FOR ALL)?' ,'*', '%' )
+```
+
+With the script, users can specify the data in the way below.
+ *R01*   --- for R01;
+ R0* ...
+            ",[54],multiple options with LIKE REPLACE
+,[55],
+,[56],
+,[57],
+,[58],
+"
+                ```
+select *
+from V
+where NVL(V.COD,'*') LIKE  REPLACE  ( '?CODE - (*R01* , R0* , * FOR ALL)?' ,'*', '%' )
+```
+
+With the script, users can specify the data in the way below.
+ *R01*   --- for R01;
+ R0* ...
+            ",[59],multiple options with LIKE REPLACE
+,[60],
+,[61],
+,[62],
+"
+                Correct me if I'm wrong, when we use PAYG images (Windows Server, RHEL, SUSE, etc.), it will cost us based on the licenses field of the disks.
+Let's say we have a Windows Server 2012 R2, which has a ...
+            ",[63],GCP: Is changing disk licenses required for upgrading OS
+,[64],
+,[65],
+,[66],
+,[67],
+"
+                Correct me if I'm wrong, when we use PAYG images (Windows Server, RHEL, SUSE, etc.), it will cost us based on the licenses field of the disks.
+Let's say we have a Windows Server 2012 R2, which has a ...
+            ",[68],GCP: Is changing disk licenses required for upgrading OS
+,[69],
+,[70],
+,[71],
+"
+                I encountered a difficult problem when deploying an RT-DETR variant model on my Jetson Nano, Below is some of my log:
+[03/30/2024-17:21:45] [W] [TRT] onnx2trt_utils.cpp:366: Your ONNX model has been ...
+            ",[72],Can I install tensorrt 8.6.1 on jetson nano?
+,[73],
+,[74],
+,[75],
+,[76],
+"
+                I encountered a difficult problem when deploying an RT-DETR variant model on my Jetson Nano, Below is some of my log:
+[03/30/2024-17:21:45] [W] [TRT] onnx2trt_utils.cpp:366: Your ONNX model has been ...
+            ",[77],Can I install tensorrt 8.6.1 on jetson nano?
+,[78],
+,[79],
+,[80],
+"
+                I'm trying to remove value ""0"" from my list of list
+a subset of that list is:
+[([29.7589382, -95.3676974], '0', '0', '0'), ([45.4208777, -75.6901106], '0', '0', '0'), ([30.5254797, -91....
+            ",[81],removing item from list of list is removing entire list not just item
+,[82],
+,[83],
+,[84],
+,[85],
+"
+                I'm trying to remove value ""0"" from my list of list
+a subset of that list is:
+[([29.7589382, -95.3676974], '0', '0', '0'), ([45.4208777, -75.6901106], '0', '0', '0'), ([30.5254797, -91....
+            ",[86],removing item from list of list is removing entire list not just item
+,[87],
+,[88],
+,[89],
+"
+                App I'm working on: https://github.com/mhiga701/safesteps-frontend/tree/beta-test-start
+To reproduce:
+
+Clone repo @ url
+Run ./setup.sh to install dependencies
+Run ./prebuild.sh (which is just npx expo ...
+            ",[90],"ENOENT: no such file or directory, copyfile"
+,[91],
+,[92],
+,[93],
+,[94],
+"
+                App I'm working on: https://github.com/mhiga701/safesteps-frontend/tree/beta-test-start
+To reproduce:
+
+Clone repo @ url
+Run ./setup.sh to install dependencies
+Run ./prebuild.sh (which is just npx expo ...
+            ",[95],"ENOENT: no such file or directory, copyfile"
+,[96],
+,[97],
+,[98],
+"
+                I know many people try to support multiple time zones when building a SaaS app for example and one example is like a golang app that need to support multiple timezones
+standard is store time in DB in ...
+            ",[99],Why not UTC offsets instead of a huge list global timezones?
+,[100],
+,[101],
+,[102],
+,[103],
+"
+                I know many people try to support multiple time zones when building a SaaS app for example and one example is like a golang app that need to support multiple timezones
+standard is store time in DB in ...
+            ",[104],Why not UTC offsets instead of a huge list global timezones?
+,[105],
+,[106],
+,[107],
+"
+                I am trying to write a simple neural net implementation with Iris dataset. However, when I try to use the softmax as the last activation layer. I got the following error:
+
+RuntimeWarning: invalid ...
+            ",[108],simple neural net implementation
+,[109],
+,[110],
+,[111],
+,[112],
+"
+                I am trying to write a simple neural net implementation with Iris dataset. However, when I try to use the softmax as the last activation layer. I got the following error:
+
+RuntimeWarning: invalid ...
+            ",[113],simple neural net implementation
+,[114],
+,[115],
+,[116],
+"
+                I'm using gulp 5.0.0
+It's my task:
+gulp.task(""theme"", async () => {
+  const destBasePath = ""src/assets/vendors/theme/"";
+  gulp.src([""../../docs/theme/theme.js""])
+    ....
+            ",[117],"Copy files from two level parents directory, Gulp?"
+,[118],
+,[119],
+,[120],
+,[121],
+"
+                I'm using gulp 5.0.0
+It's my task:
+gulp.task(""theme"", async () => {
+  const destBasePath = ""src/assets/vendors/theme/"";
+  gulp.src([""../../docs/theme/theme.js""])
+    ....
+            ",[122],"Copy files from two level parents directory, Gulp?"
+,[123],
+,[124],
+,[125],
+"
+                I got error lihe this on my website, anyone can help?
+link: https://atisweb.airnavteknik.id/. My website is hosted on NiagaHoster use Ubuntu server and Nginx web-server
+I have tried searching for ...
+            ",[126],Server Responded With 404 NOT-FOUND [closed]
+,[127],
+,[128],
+,[129],
+,[130],
+"
+                I got error lihe this on my website, anyone can help?
+link: https://atisweb.airnavteknik.id/. My website is hosted on NiagaHoster use Ubuntu server and Nginx web-server
+I have tried searching for ...
+            ",[131],Server Responded With 404 NOT-FOUND [closed]
+,[132],
+,[133],
+,[134],
