@@ -1,0 +1,18 @@
+Nombre: Residencia en Oaxtepec, Precio: $7,604 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $12,569 MXN en total
+Nombre: Residencia en Morelos, Precio: $8,146 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $10,693 MXN en total
+Nombre: Residencia en Tres de Mayo, Precio: $8,635 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $15,362 MXN en total
+Nombre: Residencia en Tres de Mayo, Precio: $8,635 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $12,173 MXN en total
+Nombre: Residencia en Jiutepec, Precio: $9,077 MXN en total
+Nombre: Residencia en Tres de Mayo, Precio: $10,474 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $19,412 MXN en total
+Nombre: Villa en Cuernavaca, Precio: $12,314 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $14,033 MXN en total
+Nombre: Residencia en Temixco, Precio: $11,289 MXN en total
+Nombre: Residencia en Tres de Mayo, Precio: $12,022 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $11,475 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $13,732 MXN en total
+Nombre: Residencia en Cuernavaca, Precio: $14,663 MXN en total
